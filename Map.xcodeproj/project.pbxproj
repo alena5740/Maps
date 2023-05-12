@@ -16,7 +16,7 @@
 		5734C0672A0E3F9C00826742 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5734C0662A0E3F9C00826742 /* InfoView.swift */; };
 		5734C0692A0E40EB00826742 /* InfoBottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5734C0682A0E40EB00826742 /* InfoBottomSheet.swift */; };
 		5734C06B2A0E5D5800826742 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5734C06A2A0E5D5800826742 /* ContainerViewController.swift */; };
-		5734C07A2A0EBD4C00826742 /* Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5734C0792A0EBD4C00826742 /* Coordinate.swift */; };
+		5734C07C2A0EC14700826742 /* Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5734C07B2A0EC14700826742 /* Coordinate.swift */; };
 		61CEB5A72A0E892A002A6E91 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CEB5A62A0E892A002A6E91 /* LocationModel.swift */; };
 		61CEB5A92A0E8943002A6E91 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CEB5A82A0E8943002A6E91 /* NetworkService.swift */; };
 		61CEB5AB2A0EA29F002A6E91 /* CustomSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61CEB5AA2A0EA29F002A6E91 /* CustomSwitch.swift */; };
@@ -37,7 +37,7 @@
 		5734C0662A0E3F9C00826742 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		5734C0682A0E40EB00826742 /* InfoBottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoBottomSheet.swift; sourceTree = "<group>"; };
 		5734C06A2A0E5D5800826742 /* ContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
-		5734C0792A0EBD4C00826742 /* Coordinate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Coordinate.swift; path = "../../../../../.Trash/Map 2/Map/Coordinate.swift"; sourceTree = "<group>"; };
+		5734C07B2A0EC14700826742 /* Coordinate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinate.swift; sourceTree = "<group>"; };
 		61CEB5A62A0E892A002A6E91 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		61CEB5A82A0E8943002A6E91 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		61CEB5AA2A0EA29F002A6E91 /* CustomSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSwitch.swift; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				61CEB5A62A0E892A002A6E91 /* LocationModel.swift */,
-				5734C0792A0EBD4C00826742 /* Coordinate.swift */,
+				5734C07B2A0EC14700826742 /* Coordinate.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -214,7 +214,7 @@
 				5734C0532A0E2E0600826742 /* MapViewController.swift in Sources */,
 				5734C06B2A0E5D5800826742 /* ContainerViewController.swift in Sources */,
 				61CEB5AD2A0EA329002A6E91 /* CustomThumbView.swift in Sources */,
-				5734C07A2A0EBD4C00826742 /* Coordinate.swift in Sources */,
+				5734C07C2A0EC14700826742 /* Coordinate.swift in Sources */,
 				61CEB5A92A0E8943002A6E91 /* NetworkService.swift in Sources */,
 				61CEB5B12A0EAA1C002A6E91 /* LocationPresenter.swift in Sources */,
 				5734C0652A0E3BA000826742 /* InfoCell.swift in Sources */,
